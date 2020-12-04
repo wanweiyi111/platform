@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>big-screen-60px</title>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <circle id="椭圆形备份-2" fill-opacity="0.1" fill="#060838" opacity="0" cx="30" cy="30" r="30"></circle>
+            <g id="led_s" transform="translate(22.000000, 13.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M2,0 L2,32 L0,32 L0,0 L2,0 Z M19.9090909,5 C20.1852333,5 20.4090909,5.22385763 20.4090909,5.5 L20.4090909,22.5 C20.4090909,22.7761424 20.1852333,23 19.9090909,23 L6.90909091,23 C6.63294853,23 6.40909091,22.7761424 6.40909091,22.5 L6.40909091,5.5 C6.40909091,5.22385763 6.63294853,5 6.90909091,5 L19.9090909,5 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

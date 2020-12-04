@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="86px" viewBox="0 0 66 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>map-position-off</title>
+    <defs>
+        <linearGradient x1="100%" y1="86.7541543%" x2="100%" y2="11.1096885%" id="linearGradient-1">
+            <stop stop-color="#818181" offset="0%"></stop>
+            <stop stop-color="#BDBDBD" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-11.1%" y="-37.5%" width="122.2%" height="175.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智慧灯杆图标备份" transform="translate(6.000000, 0.000000)">
+            <path d="M0,26.8642969 C0,32.3854237 1.38470888,36.9684775 4.54519979,41.7813548 C10.7877847,51.9856919 22.9365768,60 27.0004558,60 C31.0579536,60 43.1821328,51.9329309 49.4548002,41.7813548 C52.5615072,36.9684775 54,32.3800581 54,26.8642969 C53.9525972,12.04203 41.8758209,0 26.9767544,0 C12.0767763,0 0,12.0473955 0,26.8642969 Z" id="路径" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <ellipse id="椭圆形" fill-opacity="0.5" fill="#000000" filter="url(#filter-2)" cx="27" cy="73" rx="27" ry="8"></ellipse>
+        </g>
+    </g>
+</svg>

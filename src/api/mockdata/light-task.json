@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "message": "",
+  "data": [{
+    "key": 1,
+    "id": 1,
+    "resourceName": "资源1",
+    "status": "有效",
+    "executiveOutcomes": "开灯 20%",
+    "dateRange": "19/10/20-19/10/30",
+    "pointInTime": "18:01-19:00",
+    "operation": "New York No. 1 Lake Park",
+    "children": [{
+      "key": 11,
+      "id": 11,
+      "rank": "child",
+      "resourceName": "资源2",
+      "status": "有效",
+      "executiveOutcomes": "",
+      "dateRange": "19/10/20-19/10/30",
+      "pointInTime": "18:01-19:00",
+      "operation": "New York No. 2 Lake Park"
+    }, {
+      "key": 12,
+      "id": 12,
+      "rank": "child",
+      "resourceName": "资源3",
+      "status": "无效",
+      "executiveOutcomes": "",
+      "dateRange": "19/10/20-19/10/30",
+      "pointInTime": "18:01-19:00",
+      "operation": "操作"
+    }]
+  }, {
+    "key": 2,
+    "id": 2,
+    "resourceName": "资源4",
+    "status": "无效",
+    "executiveOutcomes": "开灯 100%",
+    "dateRange": "19/10/20-19/10/30",
+    "pointInTime": "18:01-19:00",
+    "operation": "操作"
+  }]
+}

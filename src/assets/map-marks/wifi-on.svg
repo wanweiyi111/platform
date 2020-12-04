@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="57px" viewBox="0 0 76 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Wifi-on</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="8.40753024%" x2="50%" y2="113.933593%" id="linearGradient-1">
+            <stop stop-color="#3BF9FB" offset="0%"></stop>
+            <stop stop-color="#98FEFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M39.6818463,7.99205691 C40.0981061,8.39271092 40.1062237,9.07105349 39.7043072,9.4866971 L37.5643534,11.6960741 C37.1805643,12.092155 36.5630716,12.1012377 36.1643288,11.7207815 C27.0424408,3.02434087 12.9561968,3.02630984 3.8362009,11.7207815 C3.43745818,12.1012377 2.81996545,12.0927902 2.43623739,11.6960741 L0.296222546,9.4866971 C-0.106304346,9.07105349 -0.0981866697,8.39271092 0.318073134,7.99205691 C11.3868608,-2.66204991 28.6087251,-2.66598785 39.6818463,7.99205691 Z M20,20 C22.2093358,20 24,21.7906451 24,24 C24,26.2093358 22.2093358,28 20,28 C17.7906451,28 16,26.2093358 16,24 C16,21.7906451 17.7906451,20 20,20 Z M32.6669953,14.9739492 C33.097597,15.3703902 33.1120013,16.0604112 32.7020294,16.4809464 L30.549509,18.693667 C30.1745102,19.0797457 29.5707523,19.1051113 29.1714004,18.7457333 C23.9370414,14.0319886 16.0751878,14.0215626 10.8283166,18.7457333 C10.4289648,19.1051113 9.82520684,19.0790464 9.45020798,18.693667 L7.29768767,16.4809464 C6.88832612,16.0604112 6.90205899,15.371026 7.33333209,14.9739492 C14.5289279,8.34557749 25.4632818,8.33845732 32.6669953,14.9739492 Z" id="path-2"></path>
+        <filter x="-75.0%" y="-107.1%" width="250.0%" height="314.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.231372549   0 0 0 0 0.976470588   0 0 0 0 0.984313725  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-10备份-19" transform="translate(18.000000, 20.000000)">
+            <ellipse id="椭圆形备份-7" fill-opacity="0.3" fill="#3BF9FB" cx="19.5" cy="31.5779028" rx="9.5" ry="4.5"></ellipse>
+            <g id="w" fill-rule="nonzero">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#98FEFF" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="352px" height="235px" viewBox="0 0 352 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>home-block-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="1.70502534%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1254DB" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#021652" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0.0729472425 12 0.0729472425 225 10.0729472 235 342.008222 235 351.2355 225.772723 351.2355 21.5 341.7355 12 92.5745882 12 81.5 0.925411765 10.0729472 0.925411765"></polygon>
+        <filter x="-0.1%" y="-0.2%" width="100.3%" height="100.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.5419626   0 0 0 0 0.779990315   0 0 0 0 0.966796875  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="设备概况">
+            <g id="路径-2">
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

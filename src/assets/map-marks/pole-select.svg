@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="121px" viewBox="0 0 84 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>灯杆-点击大图</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="30" cy="52" rx="15" ry="8"></ellipse>
+        <filter x="-200.0%" y="-187.5%" width="500.0%" height="850.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.00392156863   0 0 0 0 0.658823529   0 0 0 0 0.364705882  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="30" cy="30" r="30"></circle>
+        <filter x="-11.7%" y="-8.3%" width="123.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M15.2975061,0.00241519233 C15.2975061,0.00241519233 8.66316313,1.8967978 5.06487544,3.12814649 C2.43696428,4.03460238 0.764206768,6.64133517 1.01680178,9.43644057 L1.01680178,38.25 L4.76501813,38.25 L4.76501813,11.4255423 C4.76501813,9.75848561 4.46516082,7.25790057 6.47045657,6.23493396 C9.10650216,5.20237129 11.8285294,4.40989588 14.604086,3.86695571 C14.604086,3.86695571 16.665605,3.03342736 16.5718996,1.25270771 C16.5831406,0.91105977 16.4511764,0.580490241 16.2085061,0.3424093 C15.9658359,0.104328359 15.6350115,-0.0191385073 15.2975061,0.00241519233 Z" id="path-5"></path>
+        <path d="M5.39,0.0191216745 L2.40166667,0.0191216745 C1.07230272,0.029625969 0,1.15661575 0,2.54318271 L0,13.7676056 C0,15.1541726 1.07230272,16.2811624 2.40166667,16.2916667 L5.39,16.2916667 C6.71936395,16.2811624 7.79166667,15.1541726 7.79166667,13.7676056 L7.79166667,2.52406103 C7.79166667,1.13749408 6.71936395,0.0105042945 5.39,0 L5.39,0.0191216745 Z" id="path-7"></path>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-6备份" transform="translate(12.000000, 2.000000)">
+            <g id="椭圆形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill-opacity="0" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="图标/设备">
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#01A85D" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="home/submenu/post" transform="translate(4.500000, 4.500000)" fill-rule="evenodd" stroke-width="1">
+                    <g id="主页子菜单-未选中照明">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="51" height="51"></rect>
+                        <g id="lamp_24px" transform="translate(12.750000, 6.375000)">
+                            <g id="Colors/iconbgwhite备份" transform="translate(8.925000, 0.000000)">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <use id="蒙版" fill="#51C4E5" fill-rule="nonzero" xlink:href="#path-5"></use>
+                                <g id="Colors/white" mask="url(#mask-6)" fill="#FFFFFF">
+                                    <g transform="translate(-21.675000, -6.375000)" id="Rectangle-3">
+                                        <rect x="0" y="0" width="51" height="51"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Colors/iconbgwhite" transform="translate(0.000000, 12.750000)">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <use id="蒙版" fill="#FFAF0E" fill-rule="nonzero" xlink:href="#path-7"></use>
+                                <g id="Colors/white" mask="url(#mask-8)" fill="#FFFFFF">
+                                    <g transform="translate(-12.750000, -19.125000)" id="Rectangle-3">
+                                        <rect x="0" y="0" width="51" height="51"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

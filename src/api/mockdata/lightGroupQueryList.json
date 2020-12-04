@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "message": "",
+  "data": [{
+    "id": 111000,
+    "resourceName": "资源1",
+    "operation": "New York No. 1 Lake Park",
+    "children": [{
+      "id": 11,
+      "rank": "child",
+      "resourceName": "资源2",
+      "operation": "New York No. 2 Lake Park"
+    }, {
+      "key": 12,
+      "id": 12,
+      "rank": "child",
+      "resourceName": "资源3",
+      "operation": "New York No. 3 Lake Park"
+    }]
+  }, {
+    "id": 222,
+    "resourceName": "资源4",
+    "operation": "Sidney No. 1 Lake Park"
+  }]
+}

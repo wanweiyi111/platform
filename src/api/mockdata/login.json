@@ -1,0 +1,50 @@
+{
+  "data": {
+    "permissions": [
+      "D"
+    ],
+    "roles": [
+      "部门经理"
+    ],
+    "exipreTime": "20190929194149",
+    "project": [
+      {
+        "id": 111,
+        "projectName": "应用平台",
+        "city": "长沙",
+        "district": "雨花区",
+        "street": "红星",
+        "longitude": 20.2,
+        "latitude": 21.2,
+        "createTime": "2019-09-24T14:58:35.000+0800",
+        "modifyTime": "2019-09-27T19:31:55.000+0800"
+      }
+    ],
+    "user": {
+      "id": 43,
+      "userName": "goushengzi",
+      "passWord": "it's a secret",
+      "deptId": 123,
+      "projectId": 10002,
+      "email": "wqqw@4.g",
+      "mobile": "13856984587",
+      "status": "1",
+      "lastLoginTime": null,
+      "ssex": "2",
+      "description": null,
+      "avatar": null,
+      "createTime": "2019-09-24T14:58:35.000+0800",
+      "modifyTime": "2019-09-27T19:31:55.000+0800",
+      "startEffectivePeriod": null,
+      "endEffectivePeriod": null,
+      "realName": null,
+      "projectName": null,
+      "roleName": null,
+      "roleId": null,
+      "deptName": null
+    },
+    "token": "e66aad9c324904a47355ba71ee407a0351a4fb10afbb0ef50bc01135df18ea64dfc8262663c78222f2dfefee5baaacd4ac72206636c11877af20be5dda01c4e06c8b58650027ca84740a4d84c90713923e7435569815822e9cfc49532503afefebbcee843e2d9b4cc27a359fcf1c7d2a6b60a3f967a514cb5e2247bc99fc9c96a1347804311a3d1ec6411d69a5ecab32"
+  },
+  "code": "200",
+  "msg": "认证成功"
+}

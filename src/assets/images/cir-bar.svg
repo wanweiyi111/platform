@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="5px" viewBox="0 0 38 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>cir-bar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="98.8659778%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#1474BF" offset="0%"></stop>
+            <stop stop-color="#3BF9FB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" fill="url(#linearGradient-1)">
+            <path d="M33.0500091,2 C33.2816442,0.858879839 34.290521,0 35.5,0 C36.8807119,0 38,1.11928813 38,2.5 C38,3.88071187 36.8807119,5 35.5,5 C34.290521,5 33.2816442,4.14112016 33.0500091,3 L0,3 L0,2 L33.0500091,2 Z" id="形状结合"></path>
+        </g>
+    </g>
+</svg>

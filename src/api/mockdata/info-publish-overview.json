@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "message": "",
+  "data": [
+    {
+      "id": 1,
+      "resource-name": "测试",
+      "guige": "test1",
+      "group": "g1",
+      "devicecount": "d1",
+      "oprate": "o1"
+    },
+    {
+      "id": 2,
+      "resource-name": "测试",
+      "guige": "test1",
+      "group": "g1",
+      "devicecount": "d1",
+      "oprate": "o1"
+    },
+    {
+      "id": 3,
+      "resource-name": "测试",
+      "guige": "test1",
+      "group": "g1",
+      "devicecount": "d1",
+      "oprate": "o1"
+    }
+  ]
+}

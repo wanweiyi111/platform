@@ -1,0 +1,253 @@
+.bd-bottom-none {
+  border-bottom: none;
+}
+
+// .ant-table td { white-space: nowrap; }
+.ant-table-placeholder {
+  .bd-bottom-none()
+}
+
+.ant-table-small {
+  border: none;
+
+  .ant-table-thead>tr>th {
+    background: rgba(2, 22, 82, 0.40) !important;
+    border-bottom: none !important;
+  }
+}
+
+.ant-tabs-bar {
+  margin: 0 0 6px 0;
+  .bd-bottom-none()
+}
+
+// .ant-table-fixed-header .ant-table-scroll .ant-table-header{
+//   overflow-x: hidden;
+//   margin-bottom: 0!important;
+// }
+
+.ant-table-thead {
+  >tr {
+    >th {
+      .bd-bottom-none();
+      padding: 11px 5px;
+    }
+  }
+}
+
+.ant-table-tbody {
+  >tr {
+    >td {
+      .bd-bottom-none();
+      line-height: 1;
+      box-sizing: border-box;
+    }
+  }
+}
+
+.ant-collapse {
+  border: none;
+
+  >.ant-collapse-item {
+    .bd-bottom-none();
+
+    >.ant-collapse-header {
+      text-indent: 5px;
+      padding: 5px 10px;
+
+      >.arrow {
+        text-indent: 0;
+        top: 55%;
+        left: 80px;
+      }
+    }
+  }
+
+  .ant-collapse-content {
+    border-top: none;
+    width: 100%;
+  }
+}
+
+.ant-modal-content {
+  border: 1px solid #134477;
+  border-radius: 10px;
+  background-image: linear-gradient(180deg,
+      rgba(15, 75, 160, 0.7) 0%,
+      rgba(6, 27, 124, 0.5) 67%);
+  box-shadow: inset 0 0 2px 0 #35b0e6;
+}
+
+.ant-btn-default {
+  background: rgba(151, 233, 255, 0.10);
+  box-shadow: inset 0 0 3px 0 rgba(59, 249, 251, 0.50);
+  border-radius: 16.5px;
+}
+
+.ant-btn-primary {
+  color: #0f54a0;
+  background-image: linear-gradient(61deg, #6dfdfd 15%, #3bbdfb 100%);
+  box-shadow: inset 0 0 3px 0 rgba(59, 249, 251, 0.5);
+  border-radius: 16.5px;
+}
+
+.ant-btn-background-ghost {
+  color: #97e9ff;
+  border: 1px solid #97e9ff;
+  border-radius: 12px;
+}
+
+.ant-input {
+  border: 1px solid;
+}
+
+.ant-input-sm {
+  border-radius: 12px;
+}
+
+.ant-input-affix-wrapper {
+  text-indent: 0;
+}
+
+.ant-select-selection {
+  border-radius: 12px;
+}
+
+.modal-no-padding {
+  .ant-modal-body {
+    padding: 0;
+  }
+}
+
+.ant-modal-header {
+  border: none
+}
+
+.ant-modal-footer {
+  border: none;
+  text-align: center;
+}
+
+.ant-popover-inner {
+  border: 1px solid #134477;
+  border-radius: 10px;
+  background-image: linear-gradient(180deg, rgba(15, 75, 160, 0.70) 0%, rgba(6, 27, 124, 0.50) 100%);
+  box-shadow: inset 0 0 2px 0 #35B0E6;
+  background-color: transparent;
+}
+
+.ant-message-notice-content {
+  background-image: linear-gradient(180deg, rgba(15, 75, 160, 1) 0%, rgba(6, 27, 124, 1) 30%);
+}
+
+.ant-select-dropdown {
+  border: 1px solid #134477;
+  border-radius: 10px;
+  background-image: linear-gradient(180deg,
+      rgba(15, 75, 160, 1),
+      rgba(6, 27, 124, 1));
+  box-shadow: inset 0 0 2px 0 #35b0e6;
+
+  .ant-select-tree-node-selected {
+    background: #0b3b94 !important;
+  }
+}
+
+.ant-pagination {
+  .ant-pagination-item {
+    border-radius: 50%;
+  }
+}
+
+.ant-pagination-prev .ant-pagination-item-link,
+.ant-pagination-next .ant-pagination-item-link {
+  border-radius: 50%;
+}
+
+.ant-pagination-disabled .ant-pagination-item-link,
+.ant-pagination-disabled:hover .ant-pagination-item-link,
+.ant-pagination-disabled:focus .ant-pagination-item-link {
+  border-radius: 50%;
+  color: white;
+}
+
+.ant-calendar-picker-container {
+  background: rgba(2, 22, 82);
+}
+
+.ant-time-picker-panel-content {
+  background: rgba(2, 22, 82);
+}
+
+.ant-time-picker-panel-input {
+  background: rgba(2, 22, 82);
+}
+.ant-calendar-range .ant-calendar-year-panel, .ant-calendar-range .ant-calendar-month-panel, .ant-calendar-range .ant-calendar-decade-panel {
+  background: rgba(2, 22, 82);
+}
+
+.ant-time-picker-panel-select li.ant-time-picker-panel-select-option-selected {
+  background: rgba(138, 199, 247, .4);
+}
+
+
+//steps
+.ant-steps-small .ant-steps-item-icon {
+  width: 18px;
+  height: 18px;
+  border: 1px solid #7EC3FA;
+  font-size: 12px;
+  color: #7EC3FA;
+  line-height: 18px;
+}
+
+.ant-steps-item-wait .ant-steps-item-icon>.ant-steps-icon {
+  font-size: 12px;
+  color: #7EC3FA;
+}
+
+.ant-steps-small .ant-steps-item-title {
+  font-size: 12px;
+  color: #7EC3FA;
+  letter-spacing: 0;
+  line-height: 18px;
+
+  &::after {
+    top: 8px;
+  }
+}
+
+.ant-select-tree li .ant-select-tree-node-content-wrapper.ant-select-tree-node-selected {
+  background-color: rgba(2, 22, 82, 0.40);
+}
+/********************ETC报表***********************/
+.etcChartBox{
+  .ant-tabs-nav{
+    font-size: 13px;
+    color:#DDFDFF; 
+    margin-top:10px;
+    .ant-tabs-ink-bar{
+      display: none !important;
+    }
+  }
+  .ant-tabs-tab{
+    padding: 5px 10px;
+  }
+  .ant-tabs-tab-active{
+    color: #98FEFF;
+    background-color: #204475;
+    border-radius: 12px;
+    width:82px;
+    text-align: center;
+    &::after{
+      display: "";
+    }
+  }
+}
+
+.ant-collapse > .ant-collapse-item > .ant-collapse-header .ant-collapse-arrow{
+  left: 0;
+}
+.ant-calendar-time-picker-panel{
+  background-color: #204475;
+}

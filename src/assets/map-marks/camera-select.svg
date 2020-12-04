@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="121px" viewBox="0 0 84 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>安防-点击大图</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="30" cy="52" rx="15" ry="8"></ellipse>
+        <filter x="-200.0%" y="-187.5%" width="500.0%" height="850.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.00392156863   0 0 0 0 0.658823529   0 0 0 0 0.364705882  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="30" cy="30" r="30"></circle>
+        <filter x="-11.7%" y="-8.3%" width="123.3%" height="123.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0.300073989,5.87579511 L5.67424557,12.2479063 C5.92313693,12.5645508 6.30749653,12.75 6.71487852,12.75 C7.12226052,12.75 7.50662011,12.5645508 7.75551147,12.2479063 L12.4657448,7.0856091 C12.8447517,6.60222728 12.8447517,5.92888608 12.4657448,5.44550426 L8.27582795,0.471415832 C7.85782331,-0.0184043986 7.14207008,-0.143083054 6.57795314,0.175659223 L0.656079999,3.9130467 C0.321008502,4.10865544 0.0891404201,4.43765831 0.0207941242,4.81446819 C-0.0475521717,5.19127808 0.054380028,5.57864359 0.300073989,5.87579511 Z" id="path-5"></path>
+        <path d="M29.7224232,21.6918295 L31.802267,24.2497983 L23.6502357,31.110892 C23.3979596,31.3295399 23.0683423,31.4375303 22.7355928,31.4105506 C22.4028433,31.3835709 22.0949292,31.2238888 21.8811732,30.9674545 L21.8811732,30.9674545 L17.0999232,25.2060483 L19.4905482,23.0544858 L22.2158607,26.3057358 C22.4304625,26.5671611 22.7406798,26.7319325 23.0774425,26.7633637 C23.4142053,26.7947949 23.7495563,26.6902765 24.0088295,26.4730795 L24.0088295,26.4730795 L29.7224232,21.6918295 Z M19.5527001,0.00066307823 L19.7458886,0.0130531219 C20.390359,0.080654909 20.9797776,0.406984498 21.379142,0.917298266 L21.379142,0.917298266 L28.551017,9.47573577 C29.3769238,10.5584148 29.219986,12.096405 28.1924232,12.9899545 L28.1924232,12.9899545 L11.475,27.4907805 L1.243125,15.0834367 L17.9605482,0.558704516 C18.4571136,0.14236939 19.1014183,-0.0545486653 19.7458886,0.0130531219 Z M24.630392,9.47573577 L22.6700795,11.1491733 L24.3196107,13.1572983 L26.256017,11.4599545 L24.630392,9.47573577 Z" id="path-7"></path>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-6备份-4" transform="translate(12.000000, 2.000000)">
+            <g id="椭圆形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill-opacity="0" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="图标/设备">
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#01A85D" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="home/submenu/camera" transform="translate(4.500000, 4.500000)" fill-rule="evenodd" stroke-width="1">
+                    <g id="主页子菜单-未选中安防">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="51" height="51"></rect>
+                        <g id="camera_24px" transform="translate(25.500000, 25.500000) scale(-1, 1) translate(-25.500000, -25.500000) translate(6.375000, 8.925000)">
+                            <g id="Colors/iconbgwhite80" transform="translate(0.000000, 20.400000)">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <use id="蒙版" fill="#5D5BD0" fill-rule="nonzero" xlink:href="#path-5"></use>
+                                <g id="Colors/white" mask="url(#mask-6)" fill="#FFFFFF">
+                                    <g transform="translate(-6.375000, -29.325000)" id="Rectangle-3">
+                                        <rect x="0" y="0" width="51" height="51"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Colors/iconbgwhite50" transform="translate(6.375000, 0.000000)">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <use id="蒙版" fill="#4240A4" fill-rule="nonzero" xlink:href="#path-7"></use>
+                                <g id="Colors/white" mask="url(#mask-8)" fill="#FFFFFF">
+                                    <g transform="translate(-12.750000, -8.925000)" id="Rectangle-3">
+                                        <rect x="0" y="0" width="51" height="51"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

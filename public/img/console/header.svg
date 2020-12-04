@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="64px" viewBox="0 0 1920 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>header</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#101F65" offset="0%"></stop>
+            <stop stop-color="#2072AE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="92.5072018%" id="linearGradient-2">
+            <stop stop-color="#0E1856" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#2072AE" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#0E1857" offset="0%"></stop>
+            <stop stop-color="#374EAF" offset="49.7159091%"></stop>
+            <stop stop-color="#0E1651" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-4" points="0 22.07 731.192881 22.07 772.918871 63.7959896 1139.70628 63.7959896 1179.60227 23.9 1920 23.9 1920 0 0 0"></polygon>
+        <filter x="-0.4%" y="-7.8%" width="100.7%" height="121.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="3.17664337%" x2="100%" y2="83.2550231%" id="linearGradient-6">
+            <stop stop-color="#3F1DB8" offset="0%"></stop>
+            <stop stop-color="#27CAE0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="108.713875%" y1="83.2550231%" x2="12.7264651%" y2="3.17664337%" id="linearGradient-7">
+            <stop stop-color="#3F1DB8" offset="0%"></stop>
+            <stop stop-color="#27CAE0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#3045A0" offset="0%"></stop>
+            <stop stop-color="#02EDFF" offset="50.1420455%"></stop>
+            <stop stop-color="#2F449E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-17">
+            <g id="编组">
+                <g id="编组-23" transform="translate(0.500000, 27.500000)">
+                    <line x1="1528" y1="36" x2="1563" y2="1" id="直线-2" stroke="url(#linearGradient-1)" stroke-linecap="square"></line>
+                    <line x1="1808" y1="36" x2="1843" y2="1" id="直线-2备份" stroke="url(#linearGradient-1)" stroke-linecap="square"></line>
+                    <line x1="1886" y1="36" x2="1921" y2="1" id="直线-2备份-2" stroke="url(#linearGradient-1)" stroke-linecap="square"></line>
+                    <polygon id="路径-6" fill="url(#linearGradient-2)" points="181 1 216 36.8222458 294 36.8222458 259 1"></polygon>
+                    <line x1="181" y1="36" x2="216" y2="1" id="直线-2备份-4" stroke="url(#linearGradient-1)" stroke-linecap="square" transform="translate(198.500000, 18.500000) scale(-1, 1) translate(-198.500000, -18.500000) "></line>
+                    <line x1="259" y1="36" x2="294" y2="1" id="直线-2备份-3" stroke="url(#linearGradient-1)" stroke-linecap="square" transform="translate(276.500000, 18.500000) scale(-1, 1) translate(-276.500000, -18.500000) "></line>
+                    <line x1="1" y1="36" x2="36" y2="1" id="直线-2备份-6" stroke="url(#linearGradient-1)" stroke-linecap="square" transform="translate(18.500000, 18.500000) scale(-1, 1) translate(-18.500000, -18.500000) "></line>
+                    <line x1="159" y1="36" x2="194" y2="1" id="直线-2备份-5" stroke="url(#linearGradient-1)" stroke-linecap="square" transform="translate(176.500000, 18.500000) scale(-1, 1) translate(-176.500000, -18.500000) "></line>
+                </g>
+                <g id="路径-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <polygon id="路径-2" fill="url(#linearGradient-6)" opacity="0.5" points="753.131753 63.1559896 719.975763 29 711 29 744.36 63.36"></polygon>
+                <polygon id="路径-2备份" fill="url(#linearGradient-7)" opacity="0.5" transform="translate(1180.065877, 46.180000) scale(1, -1) translate(-1180.065877, -46.180000) " points="1201.13175 63.1559896 1167.97576 29 1159 29 1192.36 63.36"></polygon>
+                <line x1="1159.5" y1="63.5" x2="1886.5" y2="63.5" id="直线" stroke="#2072AE" stroke-linecap="square"></line>
+                <line x1="36.5" y1="63.5" x2="752.5" y2="63.5" id="直线备份" stroke="#2072AE" stroke-linecap="square"></line>
+            </g>
+            <rect id="矩形" fill="url(#linearGradient-8)" x="773" y="61" width="367" height="3"></rect>
+            <polygon id="路径-6备份" fill="url(#linearGradient-2)" transform="translate(1865.000000, 46.411123) scale(-1, 1) translate(-1865.000000, -46.411123) " points="1808.5 28.5 1843.5 64.3222458 1921.5 64.3222458 1886.5 28.5"></polygon>
+        </g>
+    </g>
+</svg>

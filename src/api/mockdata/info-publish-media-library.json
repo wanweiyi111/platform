@@ -1,0 +1,35 @@
+{
+  "code": 200,
+  "message": "",
+  "data": [{
+      "id": 1,
+      "resourceName": "测试",
+      "types": "test1",
+      "fileSize": "g1",
+      "uploader": "d1",
+      "uploadTime": "o1",
+      "MD5": "sddfsaf",
+      "operation": "操作1"
+    },
+    {
+      "id": 2,
+      "resourceName": "测试",
+      "types": "test1",
+      "fileSize": "g1",
+      "uploader": "d2",
+      "uploadTime": "o1",
+      "MD5": "dafdvd",
+      "operation": "操作2"
+    },
+    {
+      "id": 3,
+      "resourceName": "测试",
+      "types": "test1",
+      "fileSize": "g1",
+      "uploader": "d3",
+      "uploadTime": "d1",
+      "MD5": "gagaa",
+      "operation": "操作3"
+    }
+  ]
+}

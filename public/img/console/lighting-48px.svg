@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lighting-48px</title>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M36,35 C36,40.525 30.8633333,45 24.5,45 C18.1366667,45 13,40.525 13,35 L36,35 Z M26,3 L26.0006757,12.0987032 C36.1104299,13.1016941 44,21.625255 44,32 L4,32 C4,21.2852156 12.4152176,12.5449516 23.0003421,12.0245185 L23,3 L26,3 Z" id="形状结合" stroke="#72B9E7" fill-rule="nonzero"></path>
+    </g>
+</svg>

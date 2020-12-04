@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="40px" viewBox="0 0 48 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>应急呼叫</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="默认" transform="translate(-1255.000000, -757.000000)">
+            <g id="杆图" transform="translate(747.000000, 110.000000)">
+                <g id="编组-9备份-8" transform="translate(467.000000, 616.000000)">
+                    <g id="应急呼叫" transform="translate(41.000000, 31.000000)">
+                        <polygon id="路径-7" fill="#FBB941" points="22.0570852 13.6714226 20.7147171 15.8406207 19.1133493 28.7410744 22.0570852 30.7167918 24.8282574 30.7167918 26.914711 28.7410744 26.4247035 24.0544745 28.3475137 18.6440908 26.914711 14.3893619"></polygon>
+                        <text id="SOS" font-family="Silom" font-size="26" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="0" y="32">SOS</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
